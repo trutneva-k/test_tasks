@@ -15,18 +15,69 @@
     <td>Ozon</td>
     <td><a href="https://github.com/trutneva-k/test_tasks/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9E%D0%97%D0%9E%D0%9D.pdf">Задание для Ozon</a></td>
     <td><a href="https://github.com/trutneva-k/test_tasks/blob/main/test%20task%20ozon.ipynb">Решение для Ozon</a></td>
-    <td>random.choice(), random.randint(), np.random.normal(), np.random.exponential(), df.groupby(), pd.merge(), df.describe(), df[col].mode(), df[col].var(), sns.histplot(), sns.boxplot, df['col'].apply(def), char.isalpha(), char.isdigit()</td>
+    <td>
+      <ul>
+        <li>random.choice()</li>
+        <li>random.randint()</li>
+        <li>np.random.normal()</li>
+        <li>np.random.exponential()</li>
+        <li>df.groupby()</li>
+        <li>pd.merge()</li>
+        <li>df.describe()</li>
+        <li>df[col].mode()</li>
+        <li>df[col].var()</li>
+        <li>sns.histplot()</li>
+        <li>sns.boxplot</li>
+        <li>df['col'].apply(def)</li>
+        <li>char.isalpha()</li>
+        <li>char.isdigit()</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Firma</td>
     <td><a href="https://example.com/taskB">Задание Firma B</a></td>
     <td><a href="solutions/firma_b_solution.py">Решение Firma B</a></td>
-    <td>upper(), lower(), capitalize(), title(), strip(), lstrip(), rstrip(), isalpha(), isdigit(), isalnum(), isspace(), startswith(), endswith(), find(), rfind(), replace(), split(), join(), format(), f-strings</td>
+    <td>
+      <ul>
+        <li>upper()</li>
+        <li>lower()</li>
+        <li>capitalize()</li>
+        <li>title()</li>
+        <li>strip()</li>
+        <li>lstrip()</li>
+        <li>rstrip()</li>
+        <li>isalpha()</li>
+        <li>isdigit()</li>
+        <li>isalnum()</li>
+        <li>isspace()</li>
+        <li>startswith()</li>
+        <li>endswith()</li>
+        <li>find()</li>
+        <li>rfind()</li>
+        <li>replace()</li>
+        <li>split()</li>
+        <li>join()</li>
+        <li>format()</li>
+        <li>f-strings</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Firma</td>
     <td><a href="https://example.com/taskC">Задание Firma C</a></td>
     <td><a href="solutions/firma_c_solution.py">Решение Firma C</a></td>
-    <td>mean(), median(), mode(), variance(), std(), histplot(), scatterplot(), boxplot()</td>
+    <td>
+      <ul>
+        <li>mean()</li>
+        <li>median()</li>
+        <li>mode()</li>
+        <li>variance()</li>
+        <li>std()</li>
+        <li>histplot()</li>
+        <li>scatterplot()</li>
+        <li>boxplot()</li>
+      </ul>
+    </td>
   </tr>
 </table>
