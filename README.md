@@ -42,24 +42,6 @@
       <ul>
         <li>upper()</li>
         <li>lower()</li>
-        <li>capitalize()</li>
-        <li>title()</li>
-        <li>strip()</li>
-        <li>lstrip()</li>
-        <li>rstrip()</li>
-        <li>isalpha()</li>
-        <li>isdigit()</li>
-        <li>isalnum()</li>
-        <li>isspace()</li>
-        <li>startswith()</li>
-        <li>endswith()</li>
-        <li>find()</li>
-        <li>rfind()</li>
-        <li>replace()</li>
-        <li>split()</li>
-        <li>join()</li>
-        <li>format()</li>
-        <li>f-strings</li>
       </ul>
     </td>
   </tr>
@@ -71,12 +53,6 @@
       <ul>
         <li>mean()</li>
         <li>median()</li>
-        <li>mode()</li>
-        <li>variance()</li>
-        <li>std()</li>
-        <li>histplot()</li>
-        <li>scatterplot()</li>
-        <li>boxplot()</li>
       </ul>
     </td>
   </tr>
